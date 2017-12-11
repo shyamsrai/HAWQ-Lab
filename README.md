@@ -1,7 +1,15 @@
 # HAWQ-Lab
 HAWQ Tutorial 
 
-Quick steps on setting up HAWQ 
+
+
+
+
+
+
 
 Prerequisites 
 
+* A running HDP (Hortonworks) 2.6.1 Or Above
+* Single or multiple node
+* 
